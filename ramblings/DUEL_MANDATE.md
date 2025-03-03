@@ -18,7 +18,7 @@ Suddenly "Hallelujah" starts playing in the background as they pray for their ba
 
 The worshipper continues about this mostly-once-per-month JPow press conference that they dedicate almost their whole careers to. They dissect his every word, publish a pdf with red strikethrough of the diff changes between last month's conference, and do all sorts of mental gymnastics to forecast America's economic future from these words. 
 
-Powell gets up on the podium in his blue suit and red tie, and always starts with [January 2025 transcript here]([(https://www.federalreserve.gov/mediacenter/files/FOMCpresconf20250129.pdf)):
+Powell gets up on the podium in his blue suit and red tie, and always starts with: [example January 2025 transcript here](https://www.federalreserve.gov/mediacenter/files/FOMCpresconf20250129.pdf)
 
 "Good afternoon. My colleagues and I remain squarely focused on achieving our ***dual-mandate goals of maximum employment and stable prices*** for the benefit of the American people." (emphasis mine, but it'd be hilarious to me if he were to jump onto the podium and shout "DUAL MANDATE!!!" like a wrestler)
 
